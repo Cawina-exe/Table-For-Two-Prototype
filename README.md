@@ -56,7 +56,7 @@ This game is in active development. Current tasks:
 ## 📫 Contact
 
 Want to collaborate or give feedback?  
-📧 Email: carolina2004goncalves@gmail.com 
+📧 Email: carolina2004goncalves@gmail.com or carolina_goncalves@eticalgarve.com
 📍 Instagram : _cawina_
 🧑‍🎓 Tel: (+351) 935 316 423
 
