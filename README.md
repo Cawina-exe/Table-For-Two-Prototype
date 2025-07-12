@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 Game Features
+##  Game Features
 
 - **Time-Based Gameplay** – Prepare and deliver orders before the timer runs out.
 - **Recipe System** – Multiple recipes with specific ingredient combinations.
