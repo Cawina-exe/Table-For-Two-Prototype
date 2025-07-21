@@ -1,0 +1,1216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\harvestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\harvestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\deliverymanageruisingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deliverymanageruisingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\deliverymanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deliverymanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ducktorygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ducktorygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\playersounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\farmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\table for two_sofar\\assets\\scripts\\ui\\victoryscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\victoryscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\burningrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\burningrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\recipesleftui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\recipesleftui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\gameoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\gameoverbuttonsdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoverbuttonsdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\levelselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\scrollcreditsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\scrollcreditsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\harvestintromessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\harvestintromessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\plantingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\plateiconsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\plateiconsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\plantgrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantgrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\gameplayingclockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameplayingclockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\mainmenumusicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumusicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\harvestableplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\harvestableplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\gardenslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gardenslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\seedselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\seedselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\gamestartcontdownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamestartcontdownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\buttonexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\creditsmusicfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creditsmusicfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\platecompletevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platecompletevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ikitchenobjectparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ikitchenobjectparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\containercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\containercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\stovecountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\trashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\trashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\stovecountersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecountersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\recipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\recipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\kitchenobjectso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\kitchenobjectso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\fryingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\fryingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\cuttingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\cuttingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\scriptableobjects\\audiocliprefsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\audiocliprefsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\plateiconsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\plateiconsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\deliveryresultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deliveryresultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\uisoundclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uisoundclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\cutsceneendhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cutsceneendhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\ui\\uibuttonpulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uibuttonpulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Table For Two_SoFar\\assets\\scripts\\tutorialoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AA51FF-F5DC-32DD-B324-363EB9C1C624}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 35,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:41:26.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveryCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:43:41.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DucktoryGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\DucktoryGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DucktoryGameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\DucktoryGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DucktoryGameManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:31:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GameOverButtonsDirection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GameOverButtonsDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverButtonsDirection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GameOverButtonsDirection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverButtonsDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:33:02.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GameOverButton.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GameOverButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverButton.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GameOverButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:07:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RecipesLeftUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\RecipesLeftUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\RecipesLeftUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\RecipesLeftUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\RecipesLeftUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:14:54.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TutorialOverlay.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\TutorialOverlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialOverlay.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\TutorialOverlay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TutorialOverlay.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:03:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UIButtonPulse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\UIButtonPulse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIButtonPulse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\UIButtonPulse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIButtonPulse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:14:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CutSceneEndHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\CutSceneEndHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CutSceneEndHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\CutSceneEndHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CutSceneEndHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:07:44.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UISoundClick.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\UISoundClick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UISoundClick.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\UISoundClick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UISoundClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:24:43.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraShake.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraShake.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:30:11.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DeliveryResultUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:30.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlateIconsUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\PlateIconsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlateIconsUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\PlateIconsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlateIconsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:26.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PlateIconSingleUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\PlateIconSingleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlateIconSingleUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\PlateIconSingleUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlateIconSingleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:18.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AudioClipRefsSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\AudioClipRefsSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\AudioClipRefsSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\AudioClipRefsSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\AudioClipRefsSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:05.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CuttingRecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:04.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FryingRecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:03.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "KitchenObjectSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\KitchenObjectSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\KitchenObjectSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\KitchenObjectSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\KitchenObjectSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\RecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RecipeListSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:36:00.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PlatesCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:49.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "StoveCounterSound.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:48.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TrashCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:47.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StoveCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAwKkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:45.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaseCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StoveCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:42.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:41.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ContainerCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\ContainerCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ContainerCounterVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\ContainerCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\ContainerCounterVisual.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:40.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ContainerCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\ContainerCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ContainerCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\ContainerCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\ContainerCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PlateKitchenObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlateKitchenObject.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlateKitchenObject.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:24.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IHasProgress.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\IHasProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IHasProgress.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\IHasProgress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IHasProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:17.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IKitchenObjectParent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\IKitchenObjectParent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IKitchenObjectParent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\IKitchenObjectParent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IKitchenObjectParent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PlateCompleteVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlateCompleteVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlateCompleteVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlateCompleteVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlateCompleteVisual.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:14.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:29:05.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionsUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\OptionsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OptionsUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\OptionsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OptionsUI.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:16:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:12.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LookAtCamera.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LookAtCamera.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LookAtCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:35:09.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainMenuMusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\MainMenuMusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuMusicPlayer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\MainMenuMusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuMusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:02:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreditsMusicFader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\CreditsMusicFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreditsMusicFader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\CreditsMusicFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreditsMusicFader.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:33:54.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:25:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CuttingCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:11:10.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GamePlayingClockUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GamePlayingClockUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePlayingClockUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GamePlayingClockUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GamePlayingClockUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:14:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ButtonExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ButtonExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonExplosion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ButtonExplosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonExplosion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:10:25.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScrollCreditsUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\ScrollCreditsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ScrollCreditsUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\ScrollCreditsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ScrollCreditsUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:36:26.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HarvestablePlant.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\HarvestablePlant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HarvestablePlant.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\HarvestablePlant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HarvestablePlant.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:55:53.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HarvestIntroMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\HarvestIntroMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HarvestIntroMessage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\HarvestIntroMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HarvestIntroMessage.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:36:28.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LevelSelector.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\LevelSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelSelector.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\LevelSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:31:09.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SceneFader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SceneFader.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:31:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamePauseUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:07:16.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliveryManagerUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DeliveryManagerUI.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:39:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeliveryManagerUISingle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\DeliveryManagerUISingle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeliveryManagerUISingle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\DeliveryManagerUISingle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DeliveryManagerUISingle.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:34:16.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GameStartContdownUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GameStartContdownUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameStartContdownUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GameStartContdownUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameStartContdownUI.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:43:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SeedSelectorUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\SeedSelectorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SeedSelectorUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\SeedSelectorUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SeedSelectorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:18:55.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HarvestManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\HarvestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HarvestManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\HarvestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HarvestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:56:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PlantingManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlantingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlantingManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlantingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlantingManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:44:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlantGrower.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlantGrower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlantGrower.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlantGrower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlantGrower.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:30:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GardenSlot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GardenSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GardenSlot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GardenSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GardenSlot.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwDcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:07:05.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:34:00.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VictoryScreenUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\VictoryScreenUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\VictoryScreenUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\VictoryScreenUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\VictoryScreenUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:29:21.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerSounds.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlayerSounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSounds.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\PlayerSounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:29:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResetStaticDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ResetStaticDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetStaticDataManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ResetStaticDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetStaticDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:29:08.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SelectedCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\SelectedCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectedCounterVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\SelectedCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectedCounterVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:29:07.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProgressBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:25:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BurningRecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:23:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlatesCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:23:47.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObject.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KitchenObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:22:13.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:27:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FarmPlot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\FarmPlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FarmPlot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\FarmPlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FarmPlot.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:23:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA9wJQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:38:37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoaderCallback.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\LoaderCallback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoaderCallback.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\LoaderCallback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoaderCallback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:32:26.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Table For Two_SoFar\\Assets\\Scripts\\Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loader.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:32:25.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
